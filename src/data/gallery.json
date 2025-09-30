@@ -1,0 +1,33 @@
+
+[
+  {
+    "id": "g-01",
+    "imagePlaceholderId": "gallery-1",
+    "alt": "Workers harvesting rice in a vibrant green field."
+  },
+  {
+    "id": "g-02",
+    "imagePlaceholderId": "gallery-2",
+    "alt": "A modern tractor plowing a field under a clear blue sky."
+  },
+  {
+    "id": "g-03",
+    "imagePlaceholderId": "gallery-3",
+    "alt": "A close-up of a healthy, green rice plant with dew drops."
+  },
+  {
+    "id": "g-04",
+    "imagePlaceholderId": "gallery-4",
+    "alt": "An automated irrigation system spraying water over the fields at sunrise."
+  },
+  {
+    "id": "g-05",
+    "imagePlaceholderId": "gallery-5",
+    "alt": "A beautiful rural landscape with terraced rice paddies."
+  },
+  {
+    "id": "g-06",
+    "imagePlaceholderId": "gallery-6",
+    "alt": "A farmer's hands holding a handful of freshly harvested rice grains."
+  }
+]

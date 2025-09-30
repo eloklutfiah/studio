@@ -1,0 +1,24 @@
+
+[
+  {
+    "id": "t-01",
+    "name": "Budi Santoso",
+    "title": "Founder & CEO",
+    "bio": "With over 30 years of experience in agriculture, Budi founded PadiPro with a vision to merge tradition with technology for sustainable rice farming.",
+    "imagePlaceholderId": "team-1"
+  },
+  {
+    "id": "t-02",
+    "name": "Siti Aminah",
+    "title": "Head of Research & Development",
+    "bio": "A leading agronomist, Siti is the brains behind our innovative rice varieties and sustainable cultivation methods.",
+    "imagePlaceholderId": "team-2"
+  },
+  {
+    "id": "t-03",
+    "name": "Agus Wijaya",
+    "title": "Operations Manager",
+    "bio": "Agus ensures that our farm operations run smoothly and efficiently, from planting to harvesting, while upholding our quality standards.",
+    "imagePlaceholderId": "team-3"
+  }
+]

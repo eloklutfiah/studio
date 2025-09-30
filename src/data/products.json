@@ -1,0 +1,20 @@
+[
+  {
+    "id": "p-01",
+    "name": "Jasmine Gold",
+    "description": "Jasmine Gold is our premium long-grain rice variety, celebrated for its fragrant aroma and soft, fluffy texture when cooked. Grown in the nutrient-rich soils of our primary estates, it undergoes a meticulous cultivation process that is 100% organic. This variety is perfect for a wide range of culinary applications, from classic Asian dishes to modern fusion cuisine. Its natural sweetness and delicate flavor profile make it a favorite among chefs and home cooks alike. We ensure that each grain is perfectly aged to enhance its aromatic qualities.",
+    "imagePlaceholderId": "product-1"
+  },
+  {
+    "id": "p-02",
+    "name": "Mahogany Red",
+    "description": "Mahogany Red is a whole-grain, unhulled rice with a striking reddish-brown color and a robust, nutty flavor. It's packed with nutrients, including antioxidants, fiber, and iron. This hardy variety is cultivated using water-saving techniques, reflecting our commitment to sustainable agriculture. It has a firm texture that holds up well in salads, pilafs, and hearty grain bowls. Our Mahogany Red rice is a testament to the idea that healthy food can and should be delicious.",
+    "imagePlaceholderId": "product-2"
+  },
+  {
+    "id": "p-03",
+    "name": "Onyx Black",
+    "description": "Once reserved for royalty, Onyx Black is a medium-grain forbidden rice known for its deep purple-black hue, which comes from a high concentration of anthocyanin antioxidants. It has a slightly sweet, nutty taste and a chewy texture. We grow our Onyx Black rice in terraced paddies that follow the natural contours of the land, minimizing soil erosion. It's a visually stunning and nutritious addition to any meal, often used in desserts, porridge, and exotic rice dishes.",
+    "imagePlaceholderId": "product-3"
+  }
+]

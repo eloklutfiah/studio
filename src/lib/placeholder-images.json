@@ -1,3 +1,88 @@
 {
-  "placeholderImages": []
+  "placeholderImages": [
+    {
+      "id": "hero-rice-field",
+      "description": "A vast rice field during a golden sunset",
+      "imageUrl": "https://images.unsplash.com/photo-1701582015994-fb03371037da?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxMHx8cmljZSUyMGZpZWxkJTIwc3Vuc2V0fGVufDB8fHx8MTc1OTI0NzIxNHww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "rice field sunset"
+    },
+    {
+      "id": "product-1",
+      "description": "Close up of Jasmine Gold rice grains",
+      "imageUrl": "https://images.unsplash.com/photo-1678078475682-1f515f5eeee8?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwzfHxyaWNlJTIwZ3JhaW58ZW58MHx8fHwxNzU5MjQ3MjE0fDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "rice grain"
+    },
+    {
+      "id": "product-2",
+      "description": "A farmer in a paddy field",
+      "imageUrl": "https://images.unsplash.com/photo-1609692029268-f9ba9b2a728b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwzfHxwYWRkeSUyMGZpZWxkfGVufDB8fHx8MTc1OTE3MDg2M3ww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "paddy field"
+    },
+    {
+      "id": "product-3",
+      "description": "Illustration of sustainable farming practices",
+      "imageUrl": "https://images.unsplash.com/photo-1492496913980-501348b61469?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw0fHxzdXN0YWluYWJsZSUyMGZhcm1pbmd8ZW58MHx8fHwxNzU5MjE2MDE3fDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "sustainable farming"
+    },
+    {
+      "id": "team-1",
+      "description": "Portrait of Budi Santoso",
+      "imageUrl": "https://images.unsplash.com/photo-1628600881785-20238ebee731?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxMHx8cG9ydHJhaXQlMjBmYXJtZXJ8ZW58MHx8fHwxNzU5MjA1MzU2fDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "portrait farmer"
+    },
+    {
+      "id": "team-2",
+      "description": "Portrait of Siti Aminah",
+      "imageUrl": "https://images.unsplash.com/photo-1690444963408-9573a17a8058?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw3fHxwb3J0cmFpdCUyMHdvbWFufGVufDB8fHx8MTc1OTE0NTI5MHww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "portrait woman"
+    },
+    {
+      "id": "team-3",
+      "description": "Portrait of Agus Wijaya",
+      "imageUrl": "https://images.unsplash.com/photo-1758685848426-fcff62c9fd64?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw5fHxwb3J0cmFpdCUyMHJlc2VhcmNoZXJ8ZW58MHx8fHwxNzU5MjQ3MjE0fDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "portrait researcher"
+    },
+    {
+      "id": "gallery-1",
+      "description": "Workers harvesting rice in a field",
+      "imageUrl": "https://images.unsplash.com/photo-1599385108614-86b8fce547ef?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxfHxyaWNlJTIwaGFydmVzdHxlbnwwfHx8fDE3NTkyNDcyMTR8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "rice harvest"
+    },
+    {
+      "id": "gallery-2",
+      "description": "Modern farming equipment in a field",
+      "imageUrl": "https://images.unsplash.com/photo-1629655842433-4579f180a070?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwyfHxmYXJtaW5nJTIwZXF1aXBtZW50fGVufDB8fHx8MTc1OTE1MDE2NXww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "farming equipment"
+    },
+    {
+      "id": "gallery-3",
+      "description": "Close up of a healthy rice plant",
+      "imageUrl": "https://images.unsplash.com/photo-1651981350249-6173caeeb660?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwyfHxyaWNlJTIwcGxhbnR8ZW58MHx8fHwxNzU5MjQ3MjE0fDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "rice plant"
+    },
+    {
+      "id": "gallery-4",
+      "description": "An irrigation system watering the fields",
+      "imageUrl": "https://images.unsplash.com/photo-1666694394342-901a4c9fcd26?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw2fHxpcnJpZ2F0aW9uJTIwc3lzdGVtfGVufDB8fHx8MTc1OTE5MTU5M3ww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "irrigation system"
+    },
+    {
+      "id": "gallery-5",
+      "description": "A sunny landscape of a rural farm",
+      "imageUrl": "https://images.unsplash.com/photo-1526943604017-955071a1fb3e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwzfHxzdW5ueSUyMGxhbmRzY2FwZXxlbnwwfHx8fDE3NTkxODE0ODl8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "sunny landscape"
+    },
+    {
+      "id": "gallery-6",
+      "description": "Close-up of rice grains in a hand",
+      "imageUrl": "https://images.unsplash.com/photo-1611742608871-cb921e23ed45?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw3fHxncmFpbiUyMGhhbmR8ZW58MHx8fHwxNzU5MjQ3MjE0fDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "grain hand"
+    },
+    {
+      "id": "about-us-image",
+      "description": "A farmer standing proudly in a rice field",
+      "imageUrl": "https://images.unsplash.com/photo-1615743837666-21eb0cc0f342?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwyfHxmYXJtZXIlMjBmaWVsZHxlbnwwfHx8fDE3NTkxNDc3MDF8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "farmer field"
+    }
+  ]
 }
