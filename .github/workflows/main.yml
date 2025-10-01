@@ -12,4 +12,4 @@ jobs:
       - name: ZAP Baseline Scan
         uses: zaproxy/action-baseline@v0.9.0
         with:
-          target: "https://buggy-notes1.netlify.app/"
+          target: "https://aplikasi-pertanian.netlify.app/"
