@@ -3,13 +3,23 @@ name: OWASP ZAP Scan
 on:
   workflow_dispatch:   # manual trigger
   schedule:
-    - cron: '0 0 * * 0'  # tiap minggu
+    - cron: '0 0 * * 0'  # jalan tiap minggu
 
 jobs:
   zap_scan:
     runs-on: ubuntu-latest
+
+    permissions:
+      contents: read      # biar workflow bisa akses repo
+      actions: read
+
     steps:
+      - name: Checkout repository
+        uses: actions/checkout@v3
+
       - name: ZAP Baseline Scan
         uses: zaproxy/action-baseline@v0.9.0
         with:
           target: "https://aplikasi-pertanian.netlify.app/"
+          cmd_options: "-a"
+          report: zap-report.html
