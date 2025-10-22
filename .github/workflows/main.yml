@@ -1,13 +1,9 @@
 name: OWASP ZAP Scan
 
 on:
-  workflow_dispatch:
+  workflow_dispatch:   # manual trigger
   schedule:
-    - cron: '0 0 * * 0'
-
-permissions:
-  contents: write
-  actions: read
+    - cron: '0 0 * * 0'  # tiap minggu
 
 jobs:
   zap_scan:
