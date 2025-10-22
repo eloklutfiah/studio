@@ -10,8 +10,9 @@ jobs:
     runs-on: ubuntu-latest
 
     permissions:
-      contents: read      # biar workflow bisa akses repo
+      contents: write      # biar workflow bisa akses repo
       actions: read
+      pull-requests: write
 
     steps:
       - name: Checkout repository
