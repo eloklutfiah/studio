@@ -1,22 +1,25 @@
 name: OWASP ZAP Scan
 
 on:
-  push:
-    branches: [ main ]
-  workflow_dispatch: 
+  workflow_dispatch:   # manual trigger
+  schedule:
+    - cron: '0 0 * * 0'  # jalan tiap minggu
 
 jobs:
   zap_scan:
     runs-on: ubuntu-latest
 
-    steps:
-      - name: Checkout code
-        uses: actions/checkout@v4
+    permissions:
+      contents: read      # biar workflow bisa akses repo
+      actions: read
 
-      - name: Run OWASP ZAP Baseline Scan
-        uses: zaproxy/action-baseline@v0.6.0
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v3
+
+      - name: ZAP Baseline Scan
+        uses: zaproxy/action-baseline@v0.9.0
         with:
-          target: 'https://aplikasi-pertanian.netlify.app/'
-          cmd_options: '-a'  
-          rules_file_name: '.zap/rules.tsv' 
-          fail_action: false  
+          target: "https://aplikasi-pertanian.netlify.app/"
+          cmd_options: "-a"
+          report: zap-report.html
